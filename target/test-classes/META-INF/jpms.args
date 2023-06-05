@@ -1,0 +1,4 @@
+--patch-module
+com.sandbox=_
+--add-reads
+com.sandbox=ALL-UNNAMED
